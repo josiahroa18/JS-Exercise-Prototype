@@ -113,10 +113,10 @@ Baby.prototype.play = function(){
   TASK 4
 
   In your own words explain the four principles for the "this" keyword below:
-  1. 
-  2. 
-  3. 
-  4. 
+  1. Refers to an object that is executing the code in context
+  2. Explicit binding allows us to specify which object we will refer too
+  3. Implicit binding is used for refering to a function inside an object
+  4. A global object when strict mode is not declared and undefined when strict mode is on
 */
 
 
